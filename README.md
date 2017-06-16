@@ -6,6 +6,7 @@ Participants will walk away with a better understanding of their personal securi
 
 Authors: **Tania Lee & Slammer Musuta**
 
+## Resources
 
 [First 3 Sessions of Your Event](https://levelupcc.github.io/level-up/you-the-trainer/first-3-sessions-of-your-event/)
 
