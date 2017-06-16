@@ -38,3 +38,7 @@ Authors: **Tania Lee & Slammer Musuta**
 [Security is for Everyone Youtube Playlist](https://www.youtube.com/playlist?list=PLnmX4wM34SkdN3Mg7vyVrbHYqc8XPjNsS)
 
 [Security is for Everyone - Slides](https://github.com/hearmecode/slides/tree/master/Security%20is%20for%20Everyone/Part%20One)
+
+### Podcasts
+
+[Note to Self](https://www.wnyc.org/shows/notetoself)
