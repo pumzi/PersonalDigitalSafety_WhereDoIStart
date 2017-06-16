@@ -29,6 +29,10 @@ Authors: **Tania Lee & Slammer Musuta**
 
 [Digital Security Resources for Trainers](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
 
+### Traveling & Digital Security
+
+[Digital Privacy Border 2017](https://www.eff.org/files/2017/03/10/digital-privacy-border-2017-guide3.10.17.pdf)
+
 ### Security is for Everyone - Shannon Turner
 
 [Security is for Everyone Youtube Playlist](https://www.youtube.com/playlist?list=PLnmX4wM34SkdN3Mg7vyVrbHYqc8XPjNsS)
