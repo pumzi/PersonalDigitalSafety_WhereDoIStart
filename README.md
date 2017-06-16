@@ -12,6 +12,9 @@ Authors: **Tania Lee & Slammer Musuta**
 
 [Alex Ulsh Personal Security Checklist](https://github.com/alulsh/personal-security-checklist)
 
+### Survelliance Tips
+[Electronica Frontier Foundation's Surveillance Self-Defense Tips](https://ssd.eff.org/en)
+
 ### Tips for Organizers
 
 [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
