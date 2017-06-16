@@ -8,10 +8,22 @@ Authors: **Tania Lee & Slammer Musuta**
 
 ## Resources
 
+### Personal Security Checklist
+
+[Alex Ulsh Personal Security Checklist](https://github.com/alulsh/personal-security-checklist)
+
+### Tips for Organizers
+
+[Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
+
+### Tips on Organizing Your Own Digital Security Gathering
+
 [First 3 Sessions of Your Event](https://levelupcc.github.io/level-up/you-the-trainer/first-3-sessions-of-your-event/)
 
 [Ice Breakers andd Energizers](https://levelupcc.github.io/level-up/you-the-trainer/ice-breakers-and-energizers/)
 
-[Setting Expectations for Participatnts Organizers and Yourself](https://levelupcc.github.io/level-up/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/)
+[Setting Expectations for Participants Organizers and Yourself](https://levelupcc.github.io/level-up/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/)
 
-[Personal Security Checklist](https://github.com/alulsh/personal-security-checklist)
+[Digital Security Resources for Trainers](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
+
+
