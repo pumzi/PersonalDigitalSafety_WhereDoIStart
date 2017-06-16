@@ -26,7 +26,7 @@ Authors: **Tania Lee & Slammer Musuta**
 
 [Digital Security Resources for Trainers](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
 
-### Security is for everyone - Shannon Turner
+### Security is for Everyone - Shannon Turner
 
 [Security is for Everyone Youtube Playlist](https://www.youtube.com/playlist?list=PLnmX4wM34SkdN3Mg7vyVrbHYqc8XPjNsS)
 
