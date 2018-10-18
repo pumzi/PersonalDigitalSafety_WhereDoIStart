@@ -19,7 +19,7 @@ Authors: **Tania Lee & Slammer Musuta**
 
 ### Tips for Organizers
 
-[Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
+[Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters) (Last Updated: Nov 2017)
 
 ### Tips on Organizing Your Own Digital Security Gathering
 
