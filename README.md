@@ -10,9 +10,9 @@ Authors: **Tania Lee & Slammer Musuta**
 
 ### Personal Security Checklist
 
-[Alex Ulsh Personal Security Checklist](https://github.com/alulsh/personal-security-checklist)
+[Alex Ulsh Personal Security Checklist](https://github.com/alulsh/personal-security-checklist) (Last Updated: 2016)
 
-[DIY Cybersecurity for Domestic Violence](https://hackblossom.org/intro-domestic-violence/)
+[DIY Cybersecurity for Domestic Violence](https://hackblossom.org/intro-domestic-violence/) (Last Updated: May 2017)
 
 ### Survelliance Tips
 [Electronica Frontier Foundation's Surveillance Self-Defense Tips](https://ssd.eff.org/en)
