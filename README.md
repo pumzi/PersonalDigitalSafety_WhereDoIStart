@@ -8,6 +8,12 @@ Authors: **Tania Lee & Slammer Musuta**
 
 ## Resources
 
+### DCPL Cryptoparty (October 22, 2018)
+
+This repo includes slides from a Cryptoparty that Tania & Slammer thru with the DC Public Library. A CryptoParty is a free, decentralized public gathering to learn different approaches to privacy and security for your computers, mobile devices, social media, and other digital platforms. 
+
+Feel free to throw your own Cryptoparty & use these slides. Fore more resources on how to organize a [Cryptoparty](https://www.cryptoparty.in/).
+
 ### Personal Security Checklist
 
 [Alex Ulsh Personal Security Checklist](https://github.com/alulsh/personal-security-checklist) (Last Updated: 2016)
